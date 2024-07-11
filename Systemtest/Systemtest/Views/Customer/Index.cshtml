@@ -1,0 +1,101 @@
+﻿@using X.PagedList
+@using X.PagedList.Mvc.Core
+@model IPagedList<Systemtest.Models.DbEntities.CustomerViewModel>
+
+@{
+    ViewData["Title"] = "Customers";
+}
+<style>
+    /* Custom CSS for pagination */
+    .pagination-container {
+        margin-top: 20px; /* Add margin space */
+        padding: 10px; /* Padding inside the container */
+        border-radius: 5px; /* Rounded corners */
+    }
+
+        .pagination-container .pagination {
+            justify-content: end; /* Center align pagination links */
+        }
+
+            .pagination-container .pagination .page-link {
+                background-color: #007bff; /* Blue background color for buttons */
+                border-color: #007bff; /* Blue border color */
+                color: #fff; /* White text color */
+                border-style: none;
+            }
+
+                .pagination-container .pagination .page-link:hover {
+                    background-color: #0056b3; /* Darker blue on hover */
+                    border-color: #0056b3; /* Darker blue border color on hover */
+                    border-style: none;
+                }
+
+        .pagination-container .pagination{
+            gap: 10px;
+        }
+
+       
+</style>
+
+<h3>@ViewData["Title"]</h3>
+<hr />
+
+<div class="mb-3 d-flex justify-content-end">
+    <button type="button" class="btn btn-primary" asp-action="Create" asp-controller="Customer">Create Customer</button>
+</div>
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Customer ID</th>
+                <th>Customer Name</th>
+                <th>Place</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                @foreach (var customer in Model)
+                {
+                    <tr>
+                        <td>@customer.CustomerID</td>
+                        <td>@customer.CustomerName</td>
+                        <td>@customer.Place</td>
+                        <td>
+                            <div class="btn-group btn-group-sm" role="group" aria-label="Customer Actions">
+                                <a href="@Url.Action("Edit", "Customer", new { id = customer.CustomerID })" class="btn btn-primary">Edit</a>
+                                <a href="@Url.Action("Delete", "Customer", new { id = customer.CustomerID })" class="btn btn-danger">Delete</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="4">
+                        <div class="alert alert-info" role="alert">
+                            No customers found!
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="d-flex justify-content-end mt-3">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), new PagedListRenderOptions
+   {
+       DisplayLinkToFirstPage = PagedListDisplayMode.Never,
+       DisplayLinkToLastPage = PagedListDisplayMode.Never,
+       DisplayLinkToPreviousPage = PagedListDisplayMode.Never,
+       DisplayLinkToNextPage = PagedListDisplayMode.Never,
+       Display = PagedListDisplayMode.IfNeeded,
+       MaximumPageNumbersToDisplay = 5
+   })
+    </div>
+</div>
+
+

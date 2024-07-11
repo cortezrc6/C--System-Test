@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\models\\dbentities\\customerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\models\\dbentities\\customerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\systemtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\systemtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\models\\dbentities\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\models\\dbentities\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\models\\dbentities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\models\\dbentities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\models\\dbentities\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\models\\dbentities\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\dal\\dbcustomercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\dal\\dbcustomercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|c:\\users\\corte\\source\\repos\\c# system test\\systemtest\\systemtest\\migrations\\20240710190055_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B49186-1B4B-4661-8F95-D6F14769F626}|Systemtest\\Systemtest.csproj|solutionrelative:systemtest\\migrations\\20240710190055_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Systemtest",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\systemtest\\Systemtest\\Systemtest.csproj",
+              "RelativeDocumentMoniker": "Systemtest\\Systemtest.csproj",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\systemtest\\Systemtest\\Systemtest.csproj",
+              "RelativeToolTip": "Systemtest\\Systemtest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T07:37:00.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\DbEntities\\CustomerListViewModel.cs",
+              "RelativeDocumentMoniker": "Systemtest\\Models\\DbEntities\\CustomerListViewModel.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\DbEntities\\CustomerListViewModel.cs",
+              "RelativeToolTip": "Systemtest\\Models\\DbEntities\\CustomerListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:49:29.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\appsettings.json",
+              "RelativeDocumentMoniker": "Systemtest\\appsettings.json",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\appsettings.json",
+              "RelativeToolTip": "Systemtest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T17:12:00.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Systemtest\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Systemtest\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:13:17.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Systemtest\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Systemtest\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T19:23:25.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Program.cs",
+              "RelativeDocumentMoniker": "Systemtest\\Program.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Program.cs",
+              "RelativeToolTip": "Systemtest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:13:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\DbEntities\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "Systemtest\\Models\\DbEntities\\CustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\DbEntities\\CustomerViewModel.cs",
+              "RelativeToolTip": "Systemtest\\Models\\DbEntities\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:17:36.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "customer.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\DbEntities\\customer.cs",
+              "RelativeDocumentMoniker": "Systemtest\\Models\\DbEntities\\customer.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\DbEntities\\customer.cs",
+              "RelativeToolTip": "Systemtest\\Models\\DbEntities\\customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:02:01.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\DbEntities\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "Systemtest\\Models\\DbEntities\\PagingInfo.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\DbEntities\\PagingInfo.cs",
+              "RelativeToolTip": "Systemtest\\Models\\DbEntities\\PagingInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:50:24.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Systemtest\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Systemtest\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T20:14:38.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240710190055_initial.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Migrations\\20240710190055_initial.cs",
+              "RelativeDocumentMoniker": "Systemtest\\Migrations\\20240710190055_initial.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\Migrations\\20240710190055_initial.cs",
+              "RelativeToolTip": "Systemtest\\Migrations\\20240710190055_initial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:00:56.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbCustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\DAL\\DbCustomerContext.cs",
+              "RelativeDocumentMoniker": "Systemtest\\DAL\\DbCustomerContext.cs",
+              "ToolTip": "C:\\Users\\corte\\source\\repos\\C# System Test\\Systemtest\\Systemtest\\DAL\\DbCustomerContext.cs",
+              "RelativeToolTip": "Systemtest\\DAL\\DbCustomerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:06:46.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
